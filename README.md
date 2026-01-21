@@ -1,16 +1,100 @@
-## Hi there 👋
+## Hi, I'm Gulraiz Ali 👋
 
-<!--
-**Gulraizali/Gulraizali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Android Engineer & Lead Mobile Application Developer with **9+ years of experience**
+building **secure, scalable, high-performance Android applications** used by **1M+ users**.
+I specialize in **fintech, banking, enterprise, and consumer-grade mobile solutions**, working
+successfully with **fully remote and distributed teams**.
 
-Here are some ideas to get you started:
+🌍 **Open to Remote Android Roles**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./Gulraiz_Ali_Senior_Android_Engineer.pdf)
+
+---
+
+## 🚀 Professional Overview
+- 9+ years of professional **Android development experience**
+- 5+ years leading **remote teams**, mentoring engineers, and owning end-to-end delivery
+- Strong expertise in **Kotlin, Jetpack Compose, and Clean Architecture (MVVM/MVI)**
+- Extensive background in **fintech, digital wallets, banking, and secure payments**
+- Proven ability to deliver **production-ready apps** in regulated environments
+
+---
+
+## 🧠 Technical Expertise
+
+**Programming Languages**
+- Kotlin, Java
+
+**UI & Frameworks**
+- Jetpack Compose
+- Android SDK
+- Material Design
+
+**Architecture & Patterns**
+- Clean Architecture
+- MVVM, MVI
+- Modularization (multi-module setups)
+
+**Networking & Data**
+- Retrofit, OkHttp
+- Room, SQLite
+- Firebase
+
+**Security**
+- Android Keystore
+- AES / RSA encryption
+- TLS & Certificate Pinning
+- SecureSharedPreferences
+- ProGuard / R8
+- NDK-based hardening
+
+**Tooling & Delivery**
+- Git & GitHub
+- CI/CD (Azure DevOps)
+- Gradle, Build Variants
+- Unit Testing
+
+---
+
+## 🏦 Domain Experience
+- Fintech & Digital Wallets
+- Banking & Islamic Banking Apps
+- Secure Payments & Transactions
+- High-traffic, compliance-driven applications
+- Healthtech
+- Tourism
+- Learning
+- Utility
+
+---
+
+## 🧩 What You’ll Find on My GitHub
+- 📱 **Production-style Android applications**
+- 🏗️ **Clean Architecture & modular app setups**
+- 🎨 **Jetpack Compose UI and design systems**
+- 🧪 **Testing strategies & maintainable codebases**
+- 🔐 **Security, performance, and scalability-focused implementations**
+
+Each repository reflects **real-world engineering decisions**, not toy examples.
+
+---
+
+## 🧑‍💻 How I Work (Remote-First)
+- Clear documentation and structured READMEs
+- Ownership-driven development mindset
+- Meaningful commit history & clean Git practices
+- Strong async communication with product, backend, and QA teams
+
+---
+
+## 🌐 Portfolio
+🚀 **Portfolio:** [https://gulraizali.github.io/](https://gulraizali.github.io/)  
+*(Case studies, architecture breakdowns, and Android projects)*
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [linkedin.com/in/gulraizali](https://www.linkedin.com/in/gulraizali/)
+- ✉️ Email: gulraizali90@gmail.com
+- 📍 Location: Lahore, Pakistan (Remote)
+- 📱 WhatsApp: [+92 304 1415045](https://wa.me/923041415045)
