@@ -7,7 +7,8 @@ successfully with **fully remote and distributed teams**.
 
 🌍 **Open to Remote Android Roles**
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./Gulraiz_Ali_Senior_Android_Engineer.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-blue?style=for-the-badge)](./Gulraiz_Ali_Senior_Android_Engineer.pdf)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View-success?style=for-the-badge)](https://gulraizali.github.io/)
 
 ---
 
@@ -80,8 +81,9 @@ Each repository reflects **real-world engineering decisions**, not toy examples.
 ---
 
 ## 🧑‍💻 How I Work (Remote-First)
+- Ownership-driven development from requirements to release
 - Clear documentation and structured READMEs
-- Ownership-driven development mindset
+- Architecture-first approach for long-term scalability
 - Meaningful commit history & clean Git practices
 - Strong async communication with product, backend, and QA teams
 
@@ -89,7 +91,6 @@ Each repository reflects **real-world engineering decisions**, not toy examples.
 
 ## 🌐 Portfolio
 🚀 **Portfolio:** [https://gulraizali.github.io/](https://gulraizali.github.io/)  
-*(Case studies, architecture breakdowns, and Android projects)*
 
 ---
 
