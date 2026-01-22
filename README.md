@@ -24,13 +24,22 @@ successfully with **fully remote and distributed teams**.
 
 ## ⭐ Featured Projects
 
-[![Kuraimi Bank](assets/kuraimi-jawwal.webp)](https://play.google.com/store/apps/details?id=com.KuraimiBank)
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td style="border:none;">
+      <a href="https://play.google.com/store/apps/details?id=com.KuraimiBank" target="_blank">
+        <img src="assets/kuraimi-jawwal.png" alt="Kuraimi Bank App" width="280" style="border:none;"/>
+      </a>
+    </td>
+    <td style="padding-left: 20px; vertical-align: top; border:none;">
+      <strong>Kuraimi Bank Mobile App</strong><br/>
+      Secure Android banking application built for regulated financial environments.<br/>
+      <strong>Impact:</strong> 1M+ downloads, serving a large and active banking user base.<br/>
+      <strong>Tech:</strong> Kotlin, Jetpack Compose, Retrofit, Room
+    </td>
+  </tr>
+</table>
 
-**Kuraimi Bank Mobile App**  
-Secure Android banking application built for regulated financial environments.  
-**Impact:** 1M+ downloads, serving a large and active banking user base.
-
-**Tech:** Kotlin, Jetpack Compose, Retrofit, Room
 ---
 
 
