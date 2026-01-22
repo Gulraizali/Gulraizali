@@ -60,7 +60,7 @@ successfully with **fully remote and distributed teams**.
 <div>
   <strong>mFloos – Customers</strong><br/>
   Yemen’s first eWallet app for secure wallet transfers, international remittances, merchant & bill payments, and agent-assisted cash-in/out services.<br/>
-  <strong>Impact:</strong> Enables financial inclusion in urban and rural areas with offline & SMS-based transactions.<br/>
+  <strong>Impact:</strong> Enables financial inclusion in Yemen with offline & SMS-based transactions.<br/>
   <strong>Tech:</strong> Kotlin, Jetpack Compose, MVVM, Hilt, Room, Retrofit, Biometric Auth, 2FA, SSL Pinning
 </div>
 
@@ -87,7 +87,7 @@ successfully with **fully remote and distributed teams**.
 
 <div>
   <strong>Migraine Relief – Health & Research App</strong><br/>
-  Mobile app for early migraine detection and management, developed in collaboration with MIT & Harvard School of Medicine. Collects physiological, behavioral, and environmental data to predict migraine risk and provide actionable insights.<br/>
+ Mobile app for migraine detection & management, built with MIT & Harvard; predicts risk using physiological, behavioral, and environmental data.<br/>
   <strong>Impact:</strong> Supports research and patient care, integrating wearables and mobile data to improve migraine management.<br/>
   <strong>Tech:</strong> Kotlin, MVVM, Retrofit, Firebase Firestore & Realtime Database, WorkManager, Kotlin Coroutines, Cross-platform data handling
 </div>
