@@ -6,6 +6,7 @@ I specialize in **fintech, banking, enterprise, and consumer-grade mobile soluti
 successfully with **fully remote and distributed teams**.
 
 🌍 **Open to Remote Android Roles**
+🕒 **Availability:** Open to full-time remote roles | Contract | Long-term
 
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-blue?style=for-the-badge)](./Gulraiz_Ali_Senior_Android_Engineer.pdf)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View-success?style=for-the-badge)](https://gulraizali.github.io/)
@@ -23,40 +24,16 @@ successfully with **fully remote and distributed teams**.
 
 ## ⭐ Featured Projects
 
-[![Kuraimi Bank](assets/kuraimi-bank.png)](https://play.google.com/store/apps/details?id=com.KuraimiBank)
+[![Kuraimi Bank](assets/kuraimi-jawwal.webp)](https://play.google.com/store/apps/details?id=com.KuraimiBank)
 
 **Kuraimi Bank Mobile App**  
 Secure Android banking application built for regulated financial environments.  
 **Impact:** 1M+ downloads, serving a large and active banking user base.
 
-🔗 Play Store
-**Tech:** Kotlin, Jetpack Compose, Retrofit, Room  
-
+**Tech:** Kotlin, Jetpack Compose, Retrofit, Room
 ---
 
-### 🏦 Banking & Islamic Banking Application
-**Role:** Senior Android Engineer  
-**Impact:** Compliance-driven, high-traffic banking app  
-**Highlights:**
-- Secure authentication & account management
-- Performance optimization for low-end devices
-- Offline-first transaction history
-- Security hardening & obfuscation
 
-**Tech:** Kotlin, XML, Firebase, Android Keystore  
-
----
-
-### 🏢 Enterprise Mobile Application
-**Role:** Android Lead  
-**Impact:** Used internally across teams  
-**Highlights:**
-- Multi-module architecture
-- Role-based access control
-- Background sync & offline support
-- Mentored junior engineers
-
-**Tech:** Kotlin, MVI, Multi-module, Azure DevOps  
 
 ---
 
