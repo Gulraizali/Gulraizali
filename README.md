@@ -54,7 +54,7 @@ successfully with **fully remote and distributed teams**.
 
 <!-- Mfloos Customers -->
 <a href="https://play.google.com/store/apps/details?id=mfloos.customers" target="_blank">
-  <img src="assets/mfloos-customers.png" alt="mFloos Customers App" width="100" align="left" style="margin-right: 20px;"/>
+  <img src="assets/mfloos-customers.webp" alt="mFloos Customers App" width="100" align="left" style="margin-right: 20px;"/>
 </a>
 
 <div>
@@ -68,7 +68,7 @@ successfully with **fully remote and distributed teams**.
 
 <!-- KIB App -->
 <a href="https://play.google.com/store/apps/details?id=kib.app" target="_blank">
-  <img src="assets/kib-app.png" alt="Kuraimi Islamic Bank App" width="100" align="left" style="margin-right: 20px;"/>
+  <img src="assets/kib-app.webp" alt="Kuraimi Islamic Bank App" width="100" align="left" style="margin-right: 20px;"/>
 </a>
 
 <div>
