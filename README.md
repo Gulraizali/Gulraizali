@@ -5,7 +5,7 @@ building **secure, scalable, high-performance Android applications** used by **1
 I specialize in **fintech, banking, enterprise, and consumer-grade mobile solutions**, working
 successfully with **fully remote and distributed teams**.
 
-🌍 **Open to Remote Android Roles**
+🌍 **Open to Remote Android Roles**<br/>
 🕒 **Availability:** Open to full-time remote roles | Contract | Long-term
 
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-blue?style=for-the-badge)](./Gulraiz_Ali_Senior_Android_Engineer.pdf)
