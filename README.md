@@ -89,7 +89,7 @@ successfully with **fully remote and distributed teams**.
   <strong>Migraine Relief – Health & Research App</strong><br/>
  Mobile app for migraine detection & management, built with MIT & Harvard; predicts risk using physiological, behavioral, and environmental data.<br/>
   <strong>Impact:</strong> Supports research and patient care, integrating wearables and mobile data to improve migraine management.<br/>
-  <strong>Tech:</strong> Kotlin, MVVM, Retrofit, Firebase Firestore & Realtime Database, WorkManager, Kotlin Coroutines, Cross-platform data handling
+  <strong>Tech:</strong> Kotlin, MVVM, Retrofit, Firebase Firestore & Realtime Database, WorkManager, Kotlin Coroutines
 </div>
 
 <br clear="all"/>
